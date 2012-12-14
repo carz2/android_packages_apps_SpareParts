@@ -18,7 +18,7 @@
         package="com.android.spare_parts">
     <uses-permission android:name="android.permission.SET_ANIMATION_SCALE" />
     <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
-    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS" />
     
     <application android:label="@string/app_label"
             android:icon="@mipmap/app_icon">
